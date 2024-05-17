@@ -1,0 +1,20 @@
+[
+{
+   "producto":"sustrato premiun",
+   "salida":"01-01-200",
+   "precio":"4.50",
+   "composicion":["perlita","fibra-coco","materia orgánica"]
+},
+{
+   "producto":"enmienda orgánia",
+   "salida":"01-05-2003",
+   "precio":"6.50",
+   "composicion":["O2 activado","minerales","materia orgánica"]
+},
+{
+   "producto":"acelerador-enrraizado",
+   "salida":"01-05-2003",
+   "precio":"6.50",
+   "composicion":["nitrato","minerales","materia orgánica"]
+}
+]
